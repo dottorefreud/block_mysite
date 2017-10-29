@@ -1,0 +1,36 @@
+html {
+height: 100%;
+}
+
+p {
+margin-right: 10%;
+margin-left: 10%;
+font: bold italic 150% serif;
+color: #ffffe0;
+}
+
+textarea.text {
+border: 2px solid #daa520; 
+resize: inherit;
+margin-right: 10%;
+margin-left: 10%;
+margin-right: auto;
+font: bold italic 110% serif ;
+color: black;
+}
+
+form input {
+margin-right: 0;
+margin-left: 0;
+font: bold italic 110% serif;
+color: #daa520;
+border: 0.5px solid #daa520
+}
+
+body {
+margin: 0;
+height: 100%;
+background-image: linear-gradient(to left, #b8860b 0%, #daa520 0%, transparent 100%), url(images/2.gif);
+
+background-size: cover; 
+}

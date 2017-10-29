@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+tot2.py
+address2.txt
+address.txt
+text_in_address.txt
